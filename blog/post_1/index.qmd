@@ -1,0 +1,10 @@
+---
+title: "Testando o blog"
+author: "Dirceu S. Reis Jr."
+date: "11/11/2025"
+image: true
+categories: 
+  - MCMC
+  - Climate
+---
+

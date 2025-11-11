@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Comissão Técnica de Hidrologia Estatística"
+  page-footer: "This website was created with [Quarto](https://quarto.org/)."
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: Scripts.qmd
+        text: Scripts
+      - href: Cursos/index.qmd
+        text: Cursos
+      - href: blog/index.qmd
+        text: Blog
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - united
+    css: styles.css
+    toc: true
+
+editor: visual
+
