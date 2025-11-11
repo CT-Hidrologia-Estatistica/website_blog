@@ -21,11 +21,18 @@
     "text": "Coordenação"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "blog/post_1/index.html",
+    "href": "blog/post_1/index.html",
+    "title": "Testando o blog v1",
     "section": "",
-    "text": "Testando o blog\n\n\n\nMCMC\n\nClimate\n\n\n\n\n\n\n\n\n\nNov 11, 2025\n\n\nDirceu S. Reis Jr.\n\n\n\n\n\nNo matching items"
+    "text": "Isso é apenas um teste."
+  },
+  {
+    "objectID": "blog/post_1/index.html#primeira-postagem-da-ct",
+    "href": "blog/post_1/index.html#primeira-postagem-da-ct",
+    "title": "Testando o blog v1",
+    "section": "",
+    "text": "Isso é apenas um teste."
   },
   {
     "objectID": "about.html",
@@ -33,5 +40,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog da CT Hidrologia Estatística",
+    "section": "",
+    "text": "Testando o blog v1\n\n\n\nMCMC\n\nClimate\n\n\n\n\n\n\n\n\n\nNov 11, 2025\n\n\nDirceu S. Reis Jr.\n\n\n\n\n\n\n\n\n\n\n\n\nTest 2\n\n\n\nMCMC\n\nClimate\n\n\n\n\n\n\n\n\n\nNov 11, 2025\n\n\nDirceu S. Reis Jr.\n\n\n\n\n\nNo matching items"
   }
 ]
